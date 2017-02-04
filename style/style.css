@@ -1,1 +1,92 @@
+/* by ID */
+#header{
+  background-color:#B24AE2;
+  color:black;
+  position:fixed;
+  display:block;
+  left:20px;
+  right:20px;
+  top:0px;
+  z-index:1;
+}
+#aboutus{
+  background-color:#6D6D6D;
+  color:white;
+  position:fixed;
+  bottom:0px;
+  left:0px;
+  right:0px;
+  padding:5px;
+  border-style:solid;
+  border-width:1px 0px 0px 0px;
+  border-color:black;
+  text-align:center;
+  font-size:15px;
+  z-index:1;
+}
+#aboutus a{
+  color:white;
+  text-decoration:underline;
+}
+#sections{
+  background-color:#E1B2F7;
+  position:absolute;
+  width:100%;
+  left:0%;
+  padding-top:9px;
+  padding-bottom:9px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-style:solid;
+  border-width:1px 0px 0px 0px;
+  border-color:black;
+}
+#title{
+  font-size:50px;
+  font-family:rough;
+  margin-left:20px;
+}
 
+/* by tag */
+body{
+  background-color:white;
+}
+
+/* by class */
+.sectionheader{
+  background-color:#CE66FF;
+  border-width:0px 0px 0px 1px;
+  border-color:black;
+  border-style:solid;
+  padding:10px 20px 10px 20px;
+  transition: background-color 0.6s ease, color 0.6s ease;
+  font-size:18px;
+  font-weight:bold;
+  color:#515151;
+}
+.sectionheader:hover, .selected{
+  background-color:#AC32E5;
+  color:black;
+}
+.content{
+  font-size:17px;
+  padding-right:50px;
+  z-index:0;
+}
+.contentrow{
+  padding-bottom:50px;
+}
+.contentcol{
+  padding-left:50px;
+}
+.subtitle{
+  font-family:rough;
+  font-size:25px;
+  font-weight:bold;
+}
+
+/* fonts */
+@font-face {
+  font-family:"rough";
+  src:url("BohemianTypewriter.ttf");
+}

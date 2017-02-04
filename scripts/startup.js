@@ -1,6 +1,6 @@
 // scripts to run on startup
 
-$.get("file:///home/alexander/Desktop/AbortionAid/content.xml",function(xml){
+$.get("content.xml",function(xml){
   engine.setupContent($(xml).children(0));
   $("#headermargin").height($("#header").innerHeight()+$("#sections").innerHeight());
   engine.goToSection("welcome");

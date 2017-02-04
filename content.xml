@@ -1,0 +1,98 @@
+<content>
+  <section name="Welcome">
+    <row>
+      <subtitle>Welcome</subtitle>
+      <p>Advertise the site.</p>
+    </row>
+    <row>
+      <subtitle>Rationale</subtitle>
+      <p>Talk about why the site was made (the site's mission, as well as the gag rule).</p>
+    </row>
+  </section>
+  <section name="What is Abortion?">
+    <row>
+      <subtitle>A Definition</subtitle>
+      <p>Talk about what abortion is.</p>
+    </row>
+    <row>
+      <subtitle>Misconceptions</subtitle>
+      <p>Talk about what abortion isn't.</p>
+    </row>
+    <row col="2">
+      <subtitle>Pro-Life vs. Pro-Choice</subtitle>
+      <col>
+        <p>Talk about what pro-life means</p>
+      </col>
+      <col>
+        <p>Talk about what pro-choice means.</p>
+      </col>
+    </row>
+  </section>
+  <section name="The Choice">
+    <row>
+      <subtitle>How do I decide?</subtitle>
+      <p>Talk about making the decision. Include exemplary flow chart here?</p>
+    </row>
+    <row>
+      <subtitle>Factors in Your Decision</subtitle>
+      <p>List factors. Talk about how money and religion shouldn't be factors in the decision.</p>
+    </row>
+    <row>
+      <subtitle>Once you've decided</subtitle>
+      <p>Talk about the aid provided on this site</p>
+    </row>
+    <row><subtitle>Testing...</subtitle></row>
+    <row><subtitle>Testing...</subtitle></row>
+    <row><subtitle>Testing...</subtitle></row>
+    <row><subtitle>Testing...</subtitle></row>
+    <row><subtitle>Testing...</subtitle></row>
+    <row><subtitle>Testing...</subtitle></row>
+    <row><subtitle>Testing...</subtitle></row>
+    <row><subtitle>Testing...</subtitle></row>
+    <row><subtitle>Testing...</subtitle></row>
+    <row><subtitle>Testing...</subtitle></row>
+    <row><subtitle>Testing...</subtitle></row>
+    <row><subtitle>Testing...</subtitle></row>
+    <row><subtitle>Testing...</subtitle></row>
+    <row><subtitle>Testing...</subtitle></row>
+    <row><subtitle>Testing...</subtitle></row>
+    <row><subtitle>Testing...</subtitle></row>
+    <row><subtitle>Testing...</subtitle></row>
+    <row><subtitle>Testing...</subtitle></row>
+    <row><subtitle>Testing...</subtitle></row>
+    <row><subtitle>Testing...</subtitle></row>
+  </section>
+  <section name="Aid Services">
+
+  </section>
+  <section name="How You Can Help">
+    <row>
+      <subtitle>Donate</subtitle>
+      <p>Provide donation links and plugins here.</p>
+    </row>
+    <row>
+      <subtitle>Advertise</subtitle>
+      <p>Advertise the posters here.</p>
+    </row>
+  </section>
+  <section name="Credits">
+    <row>
+      <subtitle>Programming</subtitle>
+      <p>Alex Lugo</p>
+    </row>
+    <row col="2">
+      <col>
+        <subtitle>Writers</subtitle>
+        <p>Alex Lugo</p>
+        <p>Kami Bennet</p>
+        <p>Others...</p>
+      </col>
+      <col>
+        <subtitle>Editors</subtitle>
+        <p>Alex Lugo</p>
+        <p>Kami Bennet</p>
+        <p>Others...</p>
+      </col>
+    </row>
+  </section>
+</content>

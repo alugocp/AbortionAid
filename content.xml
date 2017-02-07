@@ -1,5 +1,5 @@
 <content>
-  <section name="Welcome">
+  <section name="Welcome" des="Everything you need to know about what this webapp is and why it was made">
     <row>
       <subtitle>Welcome</subtitle>
       <p>Advertise the site.</p>
@@ -9,7 +9,7 @@
       <p>Talk about why the site was made (the site's mission, as well as the gag rule).</p>
     </row>
   </section>
-  <section name="What is Abortion?">
+  <section name="What is Abortion?" des="A rundown of what abortion is and isn't, why it's necessary, its alternatives, and the difference between pro-life and pro-choice">
     <row>
       <subtitle>A Definition</subtitle>
       <p>Talk about what abortion is.</p>
@@ -27,8 +27,16 @@
         <p>Talk about what pro-choice means.</p>
       </col>
     </row>
+    <row>
+      <subtitle>Alternatives to Abortion</subtitle>
+      <p>Talk about alternatives.</p>
+    </row>
+    <row>
+      <subtitle>Why Are Abortions Necessary?</subtitle>
+      <p>Talk about why abortions are necessary.</p>
+    </row>
   </section>
-  <section name="The Choice">
+  <section name="The Choice" des="A preliminary guide to help you make an informed decision on whether you should get an abortion or choose an alternative">
     <row>
       <subtitle>How do I decide?</subtitle>
       <p>Talk about making the decision. Include exemplary flow chart here?</p>
@@ -55,17 +63,11 @@
     <row><subtitle>Testing...</subtitle></row>
     <row><subtitle>Testing...</subtitle></row>
     <row><subtitle>Testing...</subtitle></row>
-    <row><subtitle>Testing...</subtitle></row>
-    <row><subtitle>Testing...</subtitle></row>
-    <row><subtitle>Testing...</subtitle></row>
-    <row><subtitle>Testing...</subtitle></row>
-    <row><subtitle>Testing...</subtitle></row>
-    <row><subtitle>Testing...</subtitle></row>
   </section>
-  <section name="Aid Services">
+  <section name="Aid Services" des="Various helpful resources you can access, no matter what you choose to do with your pregnancy">
 
   </section>
-  <section name="How You Can Help">
+  <section name="How You Can Help" des="Instructions on how to donate to various aid services">
     <row>
       <subtitle>Donate</subtitle>
       <p>Provide donation links and plugins here.</p>
@@ -75,7 +77,7 @@
       <p>Advertise the posters here.</p>
     </row>
   </section>
-  <section name="Credits">
+  <section name="Credits" des="Recognizing the people who helped make this project happen">
     <row>
       <subtitle>Programming</subtitle>
       <p>Alex Lugo</p>
@@ -93,6 +95,10 @@
         <p>Kami Bennet</p>
         <p>Others...</p>
       </col>
+    </row>
+    <row>
+      <subtitle>Featured Aid Services</subtitle>
+      <p>etc...</p>
     </row>
   </section>
 </content>

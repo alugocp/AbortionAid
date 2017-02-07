@@ -5,12 +5,27 @@ var engine={
   rows:$("#rows"),
 
   // function declaration
-  addSection:function(name){
+  addSection:function(name,des){
     var section=$("<span>"+name+"</span>");
     section.addClass("sectionheader");
     section.attr("section",engine.sectionName(name));
+    section.attr("des",des);
     section.click(function(){
       engine.goToSection($(this).attr("section"));
+    });
+    section.hover(function(){
+      var left=$(this).offset().left+($(this).innerWidth()/2)-115;
+      $("#des").css("left",left+"px");
+      if(left<0){
+        $("#des").css("left","0px");
+      }
+      var span=$("<div></div>");
+      span.html($(this).attr("des"));
+      span.css("padding","10px 20px 10px 20px");
+      $("#des").html(span);
+      $("#des").height(span.innerHeight());
+    },function(){
+      $("#des").height("0px");
     });
     engine.sections.append(section);
   },
@@ -35,7 +50,7 @@ var engine={
 
   setupContent:function(xml){
     xml.children().each(function(){
-      engine.addSection($(this).attr("name"));
+      engine.addSection($(this).attr("name"),$(this).attr("des"));
       engine.setupSectionContent($(this));
     });
   },

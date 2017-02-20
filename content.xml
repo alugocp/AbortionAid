@@ -2,11 +2,15 @@
   <section name="Welcome" des="Everything you need to know about what this webapp is and why it was made">
     <row>
       <subtitle>Welcome</subtitle>
-      <p>Advertise the site.</p>
+      <p>Welcome to our site! Here we aim to connect women of all circumstances to appropriate abortion, contraception, or child-bearing resources.</p>
+      <p>This site also serves as an educational resources on abortion and its alternatives, and why people may choose to get an abortion or not.</p>
+      <p>Lastly, this site allows people to donate to multiple different abortion aid organizations.</p>
+      <p>You can click on a section header above to get started. Hover over a section header to get an idea of what the section talks about.</p>
     </row>
     <row>
       <subtitle>Rationale</subtitle>
-      <p>Talk about why the site was made (the site's mission, as well as the gag rule).</p>
+      <p>The mission of this site is simple: to connect women to whatever resources they may need when they decide to get an abortion or keep their pregnancy. But why launch this site now? Well, the US government (as of early 2017) has reimplemented the "gag rule." This rule prevents federally funded doctors from discussing abortion with their patients. They cannot tell women where to get abortions from, nor can they provide information on the procedure itself.</p>
+      <p>That's where our mission comes in. This site isn't federally funded, so it's unaffected by the gag rule. Its purpose is to fill the role that doctors usually would. The internet is a powerful tool that can be leveraged to distribute information, so why not use it to counteract the gag rule? If enough women learn of this site's mission, then the gag rule will lose its potency.</p>
     </row>
   </section>
   <section name="What is Abortion?" des="A rundown of what abortion is and isn't, why it's necessary, its alternatives, and the difference between pro-life and pro-choice">
@@ -21,15 +25,17 @@
     <row col="2">
       <subtitle>Pro-Life vs. Pro-Choice</subtitle>
       <col>
-        <p>Talk about what pro-life means</p>
+        <p>Pro-life means you believe abortion should be outlawed. No matter the situation, a woman who is pregnant must go through with the pregnancy. Oftentimes people choose to be pro-life for religious reasons or because they fear people will use abortion as a form of contraception (they think people will purposefully have unprotected sex and then use abortion to terminate their pregnancy).</p>
       </col>
       <col>
-        <p>Talk about what pro-choice means.</p>
+        <p>Pro-choice means you believe abortions should be legal, and that women should be able to choose whether or not they have an abortion. People usually choose to be pro-choice because they understand that many pregnancies are a result of rape, can result in the mother's death, or that the parent(s) may not be able to take care of the child.</p>
       </col>
     </row>
     <row>
       <subtitle>Alternatives to Abortion</subtitle>
-      <p>Talk about alternatives.</p>
+      <p>There are several alternatives to abortion, depending on your paticular circumstances. Listed below are a few of these alternatives:</p><br></br>
+      <p><b>• Contraception:</b> If you haven't become pregnant yet, then consider using this preventive alternative to abortion. Contraception comes in many forms, condoms being the cheapest, easiest and most readily available. Other forms of contraception includes birth control pills, spermicides, implants, sponges and diaphragms. If you can avoid an unwanted pregnancy by using contraception, then you won't need an abortion to begin with. The main downside to contraception is that most current methods involve a shot or implant, or mess with a woman's hormone levels.</p><br></br>
+      <p><b>• Adoption:</b> Pro-life supporters believe abortion isn't neccessary because we have adoption. While it is a valid alternative to abortion, it does'nt work in all cases. If complications in a woman's pregnancy put her at increased risk of death, then adoption is not plausible. If the mother feels she will not be able to cope with giving up her child to adoption, then adoption is not plausible. This only becomes a viable option when the mother's pregnancy is healthy and she is willing to give her child up for adoption.</p>
     </row>
     <row>
       <subtitle>Why Are Abortions Necessary?</subtitle>

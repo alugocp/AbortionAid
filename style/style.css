@@ -21,7 +21,7 @@
   border-width:1px 0px 0px 0px;
   border-color:black;
   text-align:center;
-  font-size:15px;
+  font-size:16px;
   z-index:1;
 }
 #aboutus a{
@@ -87,12 +87,14 @@ body{
   font-size:17px;
   padding-right:50px;
   z-index:0;
+  font-family:lucida;
 }
 .contentrow{
   padding-bottom:50px;
+  padding-right:75px;
 }
 .contentcol{
-  padding-left:50px;
+  padding-left:75px;
 }
 .subtitle{
   font-family:rough;

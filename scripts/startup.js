@@ -8,9 +8,7 @@ $.get("content.xml",function(xml){
   children.first().css("border-left-width","0px");
   children.eq(children.length-1).css("border-bottom-right-radius","10px");
   setTimeout(function(){
-    $("body").css("background-color","white");
-    $("load").css("display","none");
-    $("#main").css("display","block");
+    Lodr.display();
     $("#headermargin").height($("#header").innerHeight()+$("#sections").innerHeight());
     $("#des").css("top",$("#header").innerHeight()+$("#sections").innerHeight());
   },500);

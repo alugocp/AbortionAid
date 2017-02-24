@@ -1,18 +1,18 @@
 /* boot screen */
-body{
+/*body{
   background-color:#B24AE2;
   transition:background-color 0.3s ease;
 }
 #main{
   display:none;
-}
+}*/
 #load{
-  position:absolute;
+  /*position:absolute;*/
   color:white;
   font-weight:bold;
   font-size:20px;
-  left:45%;
-  top:45%;
+  /*left:45%;
+  top:45%;*/
 }
 
 /* by ID */

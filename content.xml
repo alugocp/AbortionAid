@@ -39,7 +39,9 @@
     </row>
     <row>
       <subtitle>Why Are Abortions Necessary?</subtitle>
-      <p>Talk about why abortions are necessary.</p>
+      <p>At first abortion may seem like a terrible idea, why would someone ever abort a pregnancy? Well, abortions are in fact quite necessary. Abortions give women control over unwanted or potentially fatal pregnancies. Some women cannot afford to take care of a child or to even be pregnant for a full 9 months. Maternal leave in the United States isn't on par with its European counterpart. A woman in her later stages of pregnancy is (in many cases) unable to come in to work for months at a time, and paid maternal leave in the US doesn't cover that long of an absence.</p><br></br>
+      <p>Another reason someone would want to abort their pregnancy is because the pregnancy may kill them. Pregnancy really is one of the most beautiful, complex biological processes on our planet. Because of its complexity however, it can be complicated by scores of different factors. Even if a mother has no history whatsoever of alcohol, drugs or tobacco, her own body may negatively affect her pregnancy. Maybe she has a genetic mutation that affects the functionality of her uterus? Many women do. In many cases, these complications can negatively affect the fetus's development. They may end in death for the fetus, the mother, or even both. The only way to avoid these tragedies caused by the complications of birth is to abort one's pregnancy.</p><br></br>
+      <p>Lastly, many women who become pregnant didn't even intend on having a child. Unfortunately it doesn't take consent to fertilize an egg, rape can impregnate a woman too. Rape is a terrible occurance in our modern time, and until it stops completely abortions will be a necessity for women around the world. You could tell couples to control their sexuality and avoid unwanted pregnancies, but abortions would still be necessary simply because of rape, economic strain, and complications of birth. For any of you who are religious, I suggest you pray to end these burdens instead of attacking abortion.</p>
     </row>
   </section>
   <section name="The Choice" des="A preliminary guide to help you make an informed decision on whether you should get an abortion or choose an alternative">
@@ -63,7 +65,9 @@
     </row>
   </section>
   <section name="Aid Services" des="Various helpful resources you can access, no matter what you choose to do with your pregnancy">
-
+    <row>
+      <p>Coming soon...</p>
+    </row>
   </section>
   <section name="How You Can Help" des="Instructions on how to donate to various aid services">
     <row>
@@ -96,7 +100,7 @@
     </row>
     <row>
       <subtitle>Featured Aid Services</subtitle>
-      <p>etc...</p>
+      <info href="https://www.plannedparenthood.org/">Planned Parenthood</info>
     </row>
   </section>
 </content>

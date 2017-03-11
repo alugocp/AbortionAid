@@ -1,6 +1,10 @@
 <content>
   <section name="Welcome" des="Everything you need to know about what this webapp is and why it was made">
     <row>
+      <subtitle>Want to help?</subtitle>
+      <p>If you find a bug, have a suggestion, or want to write a section of the site that isn't currently completed, email me at alugocp@aim.com</p>
+    </row>
+    <row>
       <subtitle>Welcome</subtitle>
       <p>Welcome to our site! Here we aim to connect women of all circumstances to appropriate abortion, contraception, or child-bearing resources.</p>
       <p>This site also serves as an educational resources on abortion and its alternatives, and why people may choose to get an abortion or not.</p>
@@ -32,7 +36,7 @@
       </col>
     </row>
     <row>
-      <subtitle>Alternatives to Abortion</subtitle>
+      <subtitle>Alternatives to Abortion (Incomplete)</subtitle>
       <p>There are several alternatives to abortion, depending on your paticular circumstances. Listed below are a few of these alternatives:</p><br></br>
       <p><b>• Contraception:</b> If you haven't become pregnant yet, then consider using this preventive alternative to abortion. Contraception comes in many forms, condoms being the cheapest, easiest and most readily available. Other forms of contraception includes birth control pills, spermicides, implants, sponges and diaphragms. If you can avoid an unwanted pregnancy by using contraception, then you won't need an abortion to begin with. The main downside to contraception is that most current methods involve a shot or implant, or mess with a woman's hormone levels.</p><br></br>
       <p><b>• Adoption:</b> Pro-life supporters believe abortion isn't neccessary because we have adoption. While it is a valid alternative to abortion, it does'nt work in all cases. If complications in a woman's pregnancy put her at increased risk of death, then adoption is not plausible. If the mother feels she will not be able to cope with giving up her child to adoption, then adoption is not plausible. This only becomes a viable option when the mother's pregnancy is healthy and she is willing to give her child up for adoption.</p>
@@ -50,33 +54,43 @@
       <p>Talk about making the decision. Include exemplary flow chart here?</p>
     </row>
     <row>
-      <subtitle>Factors in Your Decision</subtitle>
+      <subtitle>Factors in Your Decision (Incomplete)</subtitle>
       <p><b>• Pregnancy Health:</b> A major factor in your decision should be the health of your pregnancy. If your pregnancy is unhealthy (if it puts you at an abnormally high risk of death), then it may be wise to get an abortion.</p>
       <p><b>• Cause of pregnancy</b> Was this pregnancy intended or not? If it wasn't, you may want to consider getting an abortion.</p>
     </row>
     <row>
-      <subtitle>Non-factors</subtitle>
+      <subtitle>Non-factors (Incomplete?)</subtitle>
       <p><b>• Money:</b> In an ideal world, money truly wouldn't be a factor. Whether you wanted to get the abortion or keep your pregnancy, you'd be able to pay for it. Unfortunately this isn't an ideal world, but this website may help you find financial aid no matter what you decide to do with your abortion.</p>
       <p><b>• Religion:</b> Religion should not affect your decision to have an abortion or not. You are the mother. You are the one who may be at increased risk of death. It is your decision, not the decision of your religious leader(s) or peers.</p>
     </row>
     <row>
       <subtitle>Once you've decided</subtitle>
-      <p>Talk about the aid provided on this site</p>
+      <p>After you've decided on what to do with your pregnancy, the next step is to seek aid (assuming you're in need of monetary support). The next section will show you multiple links to different abortion-related and birth-related aid websites and provide a quick description of what each one has to offer.</p>
     </row>
   </section>
   <section name="Aid Services" des="Various helpful resources you can access, no matter what you choose to do with your pregnancy">
-    <row>
-      <p>Coming soon...</p>
+    <row col="2">
+      <col>
+        <subtitle>Finding Abortion Funds</subtitle>
+        <p>• <a class="info" href="https://abortionfunds.org/need-abortion/">Abortion Funds</a> has a map and a list of many US and a few international abortion funds.</p>
+      </col>
+      <col>
+        <subtitle>Finding Abortion Clinics</subtitle>
+        <p>• <a class="info" href="https://abortionfunds.org/how-do-i-find-the-clinic-thats-right-for-me/">Abortion Funds</a> gives helpful tips on finding a good abortion clinic, and warns against <b>fake clinics</b>.</p>
+        <p>• <a class="info" href="https://www.abortioncarenetwork.org/abortion-care-providers/">Abortion Care Network</a> gives a list of abortion clinics around the country.</p>
+        <p>• <a class="info" href="https://abortionclinics.com/">Abortion clinics.com</a> gives a list of abortion clinics by state and even city within the US. It also lists some Canadian and international abortion clinics.</p>
+        <br></br>
+        <p><b>Disclaimer: </b>Keep in mind these sites don't list every abortion clinic in the country.</p>
+      </col>
     </row>
   </section>
-  <section name="How You Can Help" des="Instructions on how to donate to various aid services">
+  <section name="Donate" des="Instructions on how to donate to various aid services">
     <row>
-      <subtitle>Donate</subtitle>
-      <p>Provide donation links and plugins here.</p>
-    </row>
-    <row>
-      <subtitle>Advertise</subtitle>
-      <p>Advertise the posters here.</p>
+      <subtitle>Donate to an Abortion Fund</subtitle>
+      <p>Below you'll find links to the donation pages of several abortion funds around the country. Many of these sites use their own scripting to generate donation keys, so it's easier to just link you to their main page and tell you where to look to find the donation links.</p><br></br>
+      <p>• <a class="info" href="https://www.plannedparenthood.org">Planned Parenthood</a>: Look in the upper right corner of their website and you'll find their donation link.</p>
+      <p>• <a class="info" href="https://abortionfunds.org">Abortion Funds</a>: Look to your right and you'll find a donation link.</p>
+      <p>• <a class="info" href="https://www.abortioncarenetwork.org/donation/">Abortion Care Network</a>: This one's actually a direct link to their donations page :D</p>
     </row>
   </section>
   <section name="Credits" des="Recognizing the people who helped make this project happen">
@@ -101,6 +115,9 @@
     <row>
       <subtitle>Featured Aid Services</subtitle>
       <info href="https://www.plannedparenthood.org/">Planned Parenthood</info>
+      <info href="https://abortionfunds.org">Abortion Funds</info>
+      <info href="https://www.abortioncarenetwork.org/">Abortion Care Network</info>
+      <info href="https://abortionclinics.com/">Abortion clinics.com</info>
     </row>
   </section>
 </content>

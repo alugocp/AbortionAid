@@ -100,11 +100,6 @@ var engine={
       var subtitle=$("<span class='subtitle'></br></span>");
       subtitle.prepend(xml.html());
       return subtitle;
-    }else if(xml.is("info")){
-      var link=$("<a class='info'></br></a>");
-      link.prepend(xml.html());
-      link.attr("href",xml.attr("href"));
-      return link;
     }else{
       xml.append($("</br>"));
       return xml;

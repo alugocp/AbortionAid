@@ -15,6 +15,16 @@ $.get("content.xml",function(xml){
   $("#sections").children().each(function(){
     engine.min+=$(this).outerWidth();
   });
+
+  $("info").each(function(){
+    var info=$(this);
+    var tag=$("<a></a>");
+    tag.addClass("info");
+    tag.html(info.html());
+    tag.attr("href",info.attr("href"));
+    info.replaceWith(tag);
+  });
+
   setTimeout(function(){
     Lodr.display();
   },500);

@@ -1,10 +1,6 @@
 <content>
   <section name="Welcome" des="Everything you need to know about what this webapp is and why it was made">
     <row>
-      <subtitle>Want to help?</subtitle>
-      <p>If you find a bug, have a suggestion, or want to write a section of the site that isn't currently completed, email me at alugocp@aim.com</p>
-    </row>
-    <row>
       <subtitle>Welcome</subtitle>
       <p>Welcome to our site! Here we aim to connect women of all circumstances to appropriate abortion, contraception, or child-bearing resources.</p>
       <p>This site also serves as an educational resources on abortion and its alternatives, and why people may choose to get an abortion or not.</p>
@@ -15,6 +11,10 @@
       <subtitle>Rationale</subtitle>
       <p>The mission of this site is simple: to connect women to whatever resources they may need when they decide to get an abortion or keep their pregnancy. But why launch this site now? Well, the US government (as of early 2017) has reimplemented the "gag rule." This rule prevents federally funded doctors from discussing abortion with their patients. They cannot tell women where to get abortions from, nor can they provide information on the procedure itself.</p>
       <p>That's where our mission comes in. This site isn't federally funded, so it's unaffected by the gag rule. Its purpose is to fill the role that doctors usually would. The internet is a powerful tool that can be leveraged to distribute information, so why not use it to counteract the gag rule? If enough women learn of this site's mission, then the gag rule will lose its potency.</p>
+    </row>
+    <row>
+      <subtitle>Want to help?</subtitle>
+      <p>If you find a bug, have a suggestion or want to write more content for this site, please email me at alugocp@aim.com</p>
     </row>
   </section>
   <section name="What is Abortion?" des="A rundown of what abortion is and isn't, why it's necessary, its alternatives, and the difference between pro-life and pro-choice">
@@ -37,7 +37,7 @@
     </row>
     <row>
       <subtitle>Alternatives to Abortion</subtitle>
-      <p>There are several alternatives to abortion, depending on your paticular circumstances. Listed below are a few of these alternatives:</p><br></br>
+      <p>Unfortunately there aren't many alternatives to abortion. The most obvious/frequently used alternatives are listed below.</p><br></br>
       <p><b>• Contraception:</b> If you haven't become pregnant yet, then consider using this preventive alternative to abortion. Contraception comes in many forms, condoms being the cheapest, easiest and most readily available. Other forms of contraception includes birth control pills, spermicides, implants, sponges and diaphragms. If you can avoid an unwanted pregnancy by using contraception, then you won't need an abortion to begin with. The main downside to contraception is that most current methods involve a shot or implant, or mess with a woman's hormone levels.</p><br></br>
       <p><b>• Adoption:</b> Pro-life supporters believe abortion isn't neccessary because we have adoption. While it is a valid alternative to abortion, it doesn't work in all cases. If complications in a woman's pregnancy put her at increased risk of death, then adoption is not plausible. If the mother feels she will not be able to cope with giving up her child to adoption, then adoption is not plausible. This only becomes a viable option when the mother's pregnancy is healthy and she is willing to give her child up for adoption.</p>
     </row>
@@ -63,6 +63,7 @@
     <row>
       <subtitle>Non-factors</subtitle>
       <p><b>• Religion:</b> Religion should not affect your decision to have an abortion or not. You are the mother. You are the one who may be at increased risk of death. It is your decision, not the decision of your religious leader(s) or peers.</p>
+      <!--<p><b>• Other people's Opinions:</b> Women who consider abortion are often confronted by their peers. People in a woman's life may not want her to get an abortion (usually because of religious reasons). If you are considering an abortion, you don't always need to listen to these people's opinions. If you're in a healthy relationship then it would be advised to discuss abortion with your boyfriend, but other than that you don't need to consider outside opinions very much. If you can't decide on your own, find a friend or family member who's unbiased to discuss abortion with. You can even talk to abortion specialists by calling a hotline (those can be found in the aid services section).</p>-->
     </row>
     <row>
       <subtitle>Once you've decided</subtitle>
@@ -73,25 +74,31 @@
     <row col="2">
       <col>
         <subtitle>Finding Abortion Funds</subtitle>
-        <p>• <a class="info" href="https://abortionfunds.org/need-abortion/">Abortion Funds</a> has a map and a list of many US and a few international abortion funds.</p>
+        <p>• <info href="https://abortionfunds.org/need-abortion/">Abortion Funds</info> has a map and a list of many US and a few international abortion funds.</p>
       </col>
       <col>
         <subtitle>Finding Abortion Clinics</subtitle>
-        <p>• <a class="info" href="https://abortionfunds.org/how-do-i-find-the-clinic-thats-right-for-me/">Abortion Funds</a> gives helpful tips on finding a good abortion clinic, and warns against <b>fake clinics</b>.</p>
-        <p>• <a class="info" href="https://www.abortioncarenetwork.org/abortion-care-providers/">Abortion Care Network</a> gives a list of abortion clinics around the country.</p>
-        <p>• <a class="info" href="https://abortionclinics.com/">Abortion clinics.com</a> gives a list of abortion clinics by state and even city within the US. It also lists some Canadian and international abortion clinics.</p>
+        <div>• <info href="https://abortionfunds.org/how-do-i-find-the-clinic-thats-right-for-me/">Abortion Funds</info> gives helpful tips on finding a good abortion clinic, and warns against <b>fake clinics</b>.</div>
+        <div>• <info href="https://www.abortioncarenetwork.org/abortion-care-providers/">Abortion Care Network</info> gives a list of abortion clinics around the country.</div>
+        <div>• <info href="https://abortionclinics.com/">Abortion clinics.com</info> gives a list of abortion clinics by state and even city within the US. It also lists some Canadian and international abortion clinics.</div>
         <br></br>
         <p><b>Disclaimer: </b>Keep in mind these sites don't list every abortion clinic in the country.</p>
       </col>
+    </row>
+    <row>
+      <subtitle>Hotlines</subtitle>
+      <p>• <b>1-800-772-9100:</b> National Abortion Federation's hotline for getting unbiased abortion-related information, including financial assistance.</p>
+      <p>• <b>1-877-257-0012:</b> National Abortion Federation's hotline. Provides referrals for abortion providers.</p>
     </row>
   </section>
   <section name="Donate" des="Instructions on how to donate to various aid services">
     <row>
       <subtitle>Donate to an Abortion Fund</subtitle>
       <p>Below you'll find links to the donation pages of several abortion funds around the country. Many of these sites use their own scripting to generate donation keys, so it's easier to just link you to their main page and tell you where to look to find the donation links.</p><br></br>
-      <p>• <a class="info" href="https://www.plannedparenthood.org">Planned Parenthood</a>: Look in the upper right corner of their website and you'll find their donation link.</p>
-      <p>• <a class="info" href="https://abortionfunds.org">Abortion Funds</a>: Look to your right and you'll find a donation link.</p>
-      <p>• <a class="info" href="https://www.abortioncarenetwork.org/donation/">Abortion Care Network</a>: This one's actually a direct link to their donations page :D</p>
+      <div>• <info href="https://www.plannedparenthood.org">Planned Parenthood</info>: Look in the upper right corner of their website and you'll find their donation link.</div>
+      <div>• <info href="https://abortionfunds.org">Abortion Funds</info>: Look to your right and you'll find a donation link.</div>
+      <div>• <info href="https://www.abortioncarenetwork.org/donation/">Abortion Care Network</info>: This one's actually a direct link to their donations page :D</div>
+      <div>• <info href="https://prochoice.org/about-naf/support-naf/">National Abortion Federation</info>: Links you directly to their donations page.</div>
     </row>
   </section>
   <section name="Credits" des="Recognizing the people who helped make this project happen">
@@ -116,6 +123,7 @@
       <info href="https://abortionfunds.org">Abortion Funds</info>
       <info href="https://www.abortioncarenetwork.org/">Abortion Care Network</info>
       <info href="https://abortionclinics.com/">Abortion clinics.com</info>
+      <info href="https://prochoice.org/">National Abortion Federation</info>
     </row>
   </section>
 </content>
